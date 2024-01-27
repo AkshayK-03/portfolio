@@ -2,14 +2,14 @@
 <centre>FRONT END DEVELOPER</centre>
 
 <strong>EDUCATION:</strong><br>
-1. BACHELOR OF ENGINEERING
+1. BACHELOR OF ENGINEERING: <br>
 Dr. Ambedkar Institute of
 Technology, Bengaluru
 Narayan PU College, Kolar
 2020 - 2024
 CGPA : 8.17
 
-2. PRE UNIVERSITY EDUCATION
+2. PRE UNIVERSITY EDUCATION: <br>
 Narayan PU College, Kolar
 2018 - 2020
 PERCENTAGE : 96% - PCMCs
