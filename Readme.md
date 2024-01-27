@@ -1,4 +1,4 @@
-<centre><strong>AKSHAY SRIVATHSA K</strong></centre>
+<centre><strong>AKSHAY SRIVATHSA K</strong></centre><br>
 <centre>FRONT END DEVELOPER</centre>
 
 <strong>EDUCATION:</strong><br>
